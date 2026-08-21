@@ -46,6 +46,13 @@ reports, and system activities through a centralized web application.
 
 ---
 
+## 🤖 AI-Assisted Development
+
+AI tools were used as a development aid for coding, debugging, and problem-solving.
+Generated code was reviewed, tested, modified, and integrated into the application.
+
+---
+
 ## 👨‍💻 My Contribution
 
 During the project, I was responsible for the development of the
