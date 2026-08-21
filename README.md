@@ -65,32 +65,57 @@ application, including:
 ---
 ## 🖼️ Application Preview
 
-Selected screenshots showcasing the main features and interface of the application.
+Screenshots below showcase the main features and interface of the application.
 
-### Dashboard
+### 🔐 Authentication & Access
+
+![Login Page](./ImageSiAsset/LoginPage.png)
+
+![System Access](./ImageSiAsset/AksesSystem.png)
+
+### 📊 Dashboard & Asset Management
 
 ![Dashboard](./ImageSiAsset/Dashboard.png)
 
-### Asset Management
+![Asset Masuk](./ImageSiAsset/AssetMasuk.png)
 
-![Asset Management](./ImageSiAsset/AssetMasuk.png)
+![Asset Keluar](./ImageSiAsset/AssetKeluar.png)
 
-### Rental Management
+![Stok Asset](./ImageSiAsset/StokAsset.png)
 
-![Rental Management](./ImageSiAsset/Sewa.png)
+![Riwayat Aktivitas](./ImageSiAsset/RiwayatAktivitas.png)
 
-### User Management
+![Sewa](./ImageSiAsset/Sewa.png)
 
-![User Management](./ImageSiAsset/DaftarUser.png)
+### 📑 Reports & System Monitoring
 
-### Permission Management
+![Laporan Asset Masuk](./ImageSiAsset/LaporanAssetMasuk.png)
 
-![Permission Management](./ImageSiAsset/Permission.png)
+![Backup Database](./ImageSiAsset/BackupDatabase.png)
 
-### Database Backup
+![Riwayat Login](./ImageSiAsset/RiwayatLogin.png)
 
-![Database Backup](./ImageSiAsset/BackupDatabase.png)
+![Log Perubahan](./ImageSiAsset/LogPerubahan.png)
 
+### 👥 User & Role Management
+
+![Daftar User](./ImageSiAsset/DaftarUser.png)
+
+![Permission](./ImageSiAsset/Permission.png)
+
+![Kelola Role](./ImageSiAsset/KelolaRole.png)
+
+![Merk Setting](./ImageSiAsset/MerkSetting.png)
+
+### 📚 Help & Documentation
+
+![Bantuan](./ImageSiAsset/Bantuan.png)
+
+![Kelola Panduan Bantuan](./ImageSiAsset/KelolaPanduanBantuan.png)
+
+![Kelola Panduan Fitur](./ImageSiAsset/KelolaPanduanFitur.png)
+
+![Dashboard System](./ImageSiAsset/DashboardSystem.png)
 ---
 
 ## 📌 Project Context
