@@ -67,7 +67,29 @@ application, including:
 
 Selected screenshots showcasing the main features and interface of the application.
 
-> Screenshots have been selected and sanitized for portfolio purposes.
+### Dashboard
+
+![Dashboard](./ImageSiAsset/Dashboard.png)
+
+### Asset Management
+
+![Asset Management](./ImageSiAsset/AssetMasuk.png)
+
+### Rental Management
+
+![Rental Management](./ImageSiAsset/Sewa.png)
+
+### User Management
+
+![User Management](./ImageSiAsset/DaftarUser.png)
+
+### Permission Management
+
+![Permission Management](./ImageSiAsset/Permission.png)
+
+### Database Backup
+
+![Database Backup](./ImageSiAsset/BackupDatabase.png)
 
 ---
 
